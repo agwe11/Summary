@@ -11,8 +11,9 @@ Visualize collected data
 - [ ] get js content and extract https://github.com/incogbyte/jsearch
 - [ ] file beat instead of manul upload
 - [x] nmap vulners to es https://github.com/marco-lancini/docker_offensive_elk
-- [x] include webpage screenshot thumbnail, network map from scanning results
+- [x] include webpage screenshot thumbnail 
 - [x] Subdomain takeover check.
+- [x] Draw network map from scan results(VEGA)
 - [ ] write elasticsearch module for quick update
 - [ ] cronjob
 
