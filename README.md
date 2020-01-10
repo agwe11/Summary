@@ -4,7 +4,7 @@ This is a partial copy from my private dev repo.
 # Reconframework
 Automate subdomain findings with open source tools,
 Perfrom enumeration to find vulnerabilities
-refine collected data and upload to elasticsearch
+refine collected data and upload it to elasticsearch
 Visualize collected data
 
 ## Todo
