@@ -15,3 +15,4 @@ Automate asset findings with open source tools, refine collected data and upload
  ![image](screenshots/nmap.png)
  ![image](screenshots/nmap2.png)
  ![image](screenshots/nmap3.png)
+ ![image](screenshots/networkmap.png)
