@@ -60,9 +60,3 @@ def bulk_json_data(json_file, _index, doc_type):
                 "_source": doc
             }
 
-#try:
-# #make the bulk call, and get a response
-#    response = helpers.bulk(elastic, bulk_json_data("upload.json", "test", "doc"))
-#    print ("\nbulk_json_data() RESPONSE:", response)
-#except Exception as e:
-#    print("\nERROR:", e)
