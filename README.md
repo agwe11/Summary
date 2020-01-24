@@ -1,7 +1,10 @@
 This is a partial copy from my private dev repo.
 
 
-# Reconframework
+# Online asset finding
+It's difficult to track all online asset and have bird's-eye view of their assets.
+This approach will give company to have better awarenees on their assets and futhermore pentester can specify scope easier with collected information 
+
 Automate subdomain findings with open source tools,
 Perfrom enumeration to find vulnerabilities
 refine collected data and upload it to elasticsearch
