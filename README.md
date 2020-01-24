@@ -23,9 +23,12 @@ Visualize collected data
 - [ ] cronjob
 
 ## Screenshots
+#Domains dashboard
  ![image](screenshots/web.png)
  ![image](screenshots/web2.png)
+ ![image](screenshots/networkmap.png)
+#Port scan dashboard
  ![image](screenshots/nmap.png)
  ![image](screenshots/nmap2.png)
  ![image](screenshots/nmap3.png)
- ![image](screenshots/networkmap.png)
+
